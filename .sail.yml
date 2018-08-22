@@ -1,0 +1,9 @@
+tasks:
+  install:
+    image: "node:carbon"
+    command: ["yarn"]
+    args: ["install"]
+  test:
+    image: "node:carbon"
+    command: ["yarn"]
+    args: ["test"]

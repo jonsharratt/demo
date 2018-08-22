@@ -1,0 +1,14 @@
+{
+  "name": "@sailci/demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:sailci/demo.git",
+  "author": "Jon Sharratt <jon@craftship.io>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
